@@ -1,0 +1,48 @@
+[Mon Jan 09 23:41:08.963105 2017] [proxy:error] [pid 29387] (111)Connection refused: AH00957: HTTP: attempt to connect to 127.0.0.1:8000 (127.0.0.1) failed
+[Mon Jan 09 23:41:08.963150 2017] [proxy:error] [pid 29387] AH00959: ap_proxy_connect_backend disabling worker for (127.0.0.1) for 60s
+[Mon Jan 09 23:41:08.963155 2017] [proxy_http:error] [pid 29387] [client 218.185.235.230:64630] AH01114: HTTP: failed to make connection to backend: 127.0.0.1
+[Mon Jan 09 23:41:10.230036 2017] [proxy:error] [pid 29387] [client 218.185.235.230:26418] AH00898: DNS lookup failure for: 127.0.0.1:8000favicon.ico returned by /favicon.ico, referer: http://thx4u.com/
+[Mon Jan 09 23:41:36.081605 2017] [proxy:error] [pid 29394] [client 218.185.235.230:38220] AH00898: DNS lookup failure for: 127.0.0.1:8000favicon.ico returned by /favicon.ico, referer: http://thx4u.com/
+[Tue Jan 10 00:07:18.331898 2017] [proxy:error] [pid 29394] [client 68.180.229.239:55898] AH00898: DNS lookup failure for: 127.0.0.1:8000robots.txt returned by /robots.txt
+[Tue Jan 10 00:07:18.687705 2017] [proxy:error] [pid 29413] [client 68.180.229.239:55934] AH00898: DNS lookup failure for: 127.0.0.1:8000chart-showcase.html returned by /chart-showcase.html
+[Tue Jan 10 00:27:49.319796 2017] [proxy:error] [pid 29417] [client 218.185.235.230:44153] AH00898: DNS lookup failure for: 127.0.0.1:8000stooge returned by /stooge/
+[Tue Jan 10 00:27:50.284708 2017] [proxy:error] [pid 29417] [client 218.185.235.230:44153] AH00898: DNS lookup failure for: 127.0.0.1:8000favicon.ico returned by /favicon.ico, referer: http://thx4u.com/stooge/
+[Tue Jan 10 00:28:01.900430 2017] [proxy:error] [pid 29387] [client 218.185.235.230:36189] AH00898: DNS lookup failure for: 127.0.0.1:8000stooge returned by /stooge/moe
+[Tue Jan 10 00:28:02.426103 2017] [proxy:error] [pid 29387] [client 218.185.235.230:36189] AH00898: DNS lookup failure for: 127.0.0.1:8000favicon.ico returned by /favicon.ico, referer: http://thx4u.com/stooge/moe
+[Tue Jan 10 00:35:47.691138 2017] [proxy:error] [pid 30113] (111)Connection refused: AH00957: HTTP: attempt to connect to 127.0.0.1:8000 (localhost) failed
+[Tue Jan 10 00:35:47.691168 2017] [proxy:error] [pid 30113] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Tue Jan 10 00:35:47.691173 2017] [proxy_http:error] [pid 30113] [client 218.185.235.230:16564] AH01114: HTTP: failed to make connection to backend: localhost
+[Tue Jan 10 00:39:55.530329 2017] [proxy:error] [pid 30113] (111)Connection refused: AH00957: HTTP: attempt to connect to 127.0.0.1:8000 (localhost) failed
+[Tue Jan 10 00:39:55.530348 2017] [proxy:error] [pid 30113] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Tue Jan 10 00:39:55.530352 2017] [proxy_http:error] [pid 30113] [client 218.185.235.230:42973] AH01114: HTTP: failed to make connection to backend: localhost
+[Tue Jan 10 00:40:02.822528 2017] [proxy:error] [pid 30116] (111)Connection refused: AH00957: HTTP: attempt to connect to 127.0.0.1:8000 (localhost) failed
+[Tue Jan 10 00:40:02.822564 2017] [proxy:error] [pid 30116] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Tue Jan 10 00:40:02.822571 2017] [proxy_http:error] [pid 30116] [client 218.185.235.230:59627] AH01114: HTTP: failed to make connection to backend: localhost
+[Tue Jan 10 00:40:08.301920 2017] [proxy:error] [pid 30113] AH00940: HTTP: disabled connection for (localhost)
+[Tue Jan 10 00:40:52.643206 2017] [proxy:error] [pid 30116] AH00940: HTTP: disabled connection for (localhost)
+[Thu Jan 12 04:27:04.255950 2017] [proxy:error] [pid 5364] (111)Connection refused: AH00957: HTTP: attempt to connect to 127.0.0.1:8000 (localhost) failed
+[Thu Jan 12 04:27:04.256177 2017] [proxy:error] [pid 5364] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Thu Jan 12 04:27:04.256185 2017] [proxy_http:error] [pid 5364] [client 49.199.188.25:29191] AH01114: HTTP: failed to make connection to backend: localhost
+[Thu Jan 12 04:27:05.088703 2017] [proxy:error] [pid 5365] (111)Connection refused: AH00957: HTTP: attempt to connect to 127.0.0.1:8000 (localhost) failed
+[Thu Jan 12 04:27:05.088748 2017] [proxy:error] [pid 5365] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Thu Jan 12 04:27:05.088756 2017] [proxy_http:error] [pid 5365] [client 49.199.188.25:29192] AH01114: HTTP: failed to make connection to backend: localhost
+[Thu Jan 12 04:27:09.280426 2017] [proxy:error] [pid 4548] (111)Connection refused: AH00957: HTTP: attempt to connect to 127.0.0.1:8000 (localhost) failed
+[Thu Jan 12 04:27:09.280452 2017] [proxy:error] [pid 4548] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Thu Jan 12 04:27:09.280458 2017] [proxy_http:error] [pid 4548] [client 49.199.188.25:29194] AH01114: HTTP: failed to make connection to backend: localhost
+[Thu Jan 12 04:27:09.700026 2017] [proxy:error] [pid 5365] AH00940: HTTP: disabled connection for (localhost)
+[Thu Jan 12 04:27:54.488899 2017] [proxy:error] [pid 4548] AH00940: HTTP: disabled connection for (localhost)
+[Thu Jan 12 04:27:55.056820 2017] [proxy:error] [pid 5364] AH00940: HTTP: disabled connection for (localhost)
+[Thu Jan 12 04:28:03.174517 2017] [proxy:error] [pid 5365] AH00940: HTTP: disabled connection for (localhost)
+[Thu Jan 12 04:28:03.678280 2017] [proxy:error] [pid 4548] AH00940: HTTP: disabled connection for (localhost)
+[Thu Jan 12 04:28:04.682157 2017] [proxy:error] [pid 5364] (111)Connection refused: AH00957: HTTP: attempt to connect to 127.0.0.1:8000 (localhost) failed
+[Thu Jan 12 04:28:04.682178 2017] [proxy:error] [pid 5364] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Thu Jan 12 04:28:04.682181 2017] [proxy_http:error] [pid 5364] [client 49.199.188.25:29205] AH01114: HTTP: failed to make connection to backend: localhost
+[Thu Jan 12 04:28:05.297990 2017] [proxy:error] [pid 5365] (111)Connection refused: AH00957: HTTP: attempt to connect to 127.0.0.1:8000 (localhost) failed
+[Thu Jan 12 04:28:05.298011 2017] [proxy:error] [pid 5365] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Thu Jan 12 04:28:05.298015 2017] [proxy_http:error] [pid 5365] [client 49.199.188.25:29206] AH01114: HTTP: failed to make connection to backend: localhost
+[Thu Jan 12 04:28:13.178127 2017] [proxy:error] [pid 4548] (111)Connection refused: AH00957: HTTP: attempt to connect to 127.0.0.1:8000 (localhost) failed
+[Thu Jan 12 04:28:13.178149 2017] [proxy:error] [pid 4548] AH00959: ap_proxy_connect_backend disabling worker for (localhost) for 60s
+[Thu Jan 12 04:28:13.178152 2017] [proxy_http:error] [pid 4548] [client 49.199.188.25:29207] AH01114: HTTP: failed to make connection to backend: localhost
+[Thu Jan 12 04:28:13.889825 2017] [proxy:error] [pid 5364] AH00940: HTTP: disabled connection for (localhost)
+[Thu Jan 12 04:28:21.057798 2017] [proxy:error] [pid 5365] AH00940: HTTP: disabled connection for (localhost)
+[Thu Jan 12 04:28:21.578017 2017] [proxy:error] [pid 4548] AH00940: HTTP: disabled connection for (localhost)
